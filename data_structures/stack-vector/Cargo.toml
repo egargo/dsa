@@ -1,4 +1,4 @@
 [package]
-name = "stack"
+name = "stack-vector"
 version = "0.1.0"
 edition = "2021"
